@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities>
+	<ExtensionPackages>
+		<ExtensionPackage name="Autocomplete"
+						  description="ThingWorx Autocomplete Widget"
+						  vendor="PTC"
+						  packageVersion="1.0.37" 
+						  minimumThingWorxVersion="6.0.1" />
+	</ExtensionPackages>
+	<Widgets>
+		<Widget name="Autocomplete">
+			<UIResources>
+				<!-- Studio ONLY -->
+				<FileResource type="CSS" file="Autocomplete.ide.css" description="" isDevelopment="true" isRuntime="false" />
+				<FileResource type="JS" file="Autocomplete.ide.js" description="" isDevelopment="true" isRuntime="false" />
+				<!-- Runtime/Squeal ONLY -->
+				<FileResource type="CSS" file="Autocomplete.runtime.css" description="" isDevelopment="false" isRuntime="true" />
+				<FileResource type="JS" file="Autocomplete.runtime.js" description="" isDevelopment="false" isRuntime="true" />
+			</UIResources>
+		</Widget>
+	</Widgets>
+</Entities>
