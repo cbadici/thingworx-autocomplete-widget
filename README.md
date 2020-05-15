@@ -5,4 +5,4 @@ The Autocomplete widget is intended to be used on any ThingWorx version starting
 
 Documentation regarding the ThingWorx Widget development is available starting page 81 from the  https://www.ptc.com/ru/support/refdoc/thingworx_platform/8.3/thingworx_extension_development_user_guide_170215 
 
-If you would want to contribute to this widget, please use a fork + pull request.
+This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite. Users are free to use, fork and modify them at their own risk. Community contributions are welcomed and can be accepted based on their content.
